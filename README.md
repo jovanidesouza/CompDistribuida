@@ -7,6 +7,6 @@ T2 - Primitiva de sincronização (vector clock)
 
 T3 - Primitiva de acordo e eleição de líder
 
-T4 - Tabela Hash distribuída
+T4 - Primitiva de Tabela Hash distribuída
 
 TFinal - Sistema de arquivos distribuído
